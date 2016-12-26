@@ -4,8 +4,11 @@ This is a Coursera course on Object Oriented Java Programming by UCSD
 There are four sections that ends up with a capstone project making a 
 total of five. The folders include the codes I completed. 
 
+.java files are here -> CourseraJava/UCSDUnfoldingMaps/src/
 
-### .java files are here -> CourseraJava/UCSDUnfoldingMaps/src/
+
+
+--
 
 
 
